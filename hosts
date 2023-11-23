@@ -1,0 +1,257 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+#
+#         No Wildcard Accepted
+#
+
+
+#Just Systems
+127.0.0.1 activation.justsystems.com
+127.0.0.1 subscribe.justsystems.com
+
+172.20.58.3 ad.wingads.com 
+
+172.20.58.3 sh.adingo.jp 
+172.20.58.3 ssp.advg.jp 
+
+#Yahoo
+172.20.58.3 s.sh.adingo.jp
+
+
+#小説家になろう
+172.20.58.3 spnet2-1.i-mobile.co.jp
+172.20.58.3 spnet33.i-mobile.co.jp
+172.20.58.3 ssp-bidapi-n1.i-mobile.co.jp
+172.20.58.3 spdeliver.i-mobile.co.jp
+
+
+172.20.58.3 image.ias.rakuten.co.jp 
+172.20.58.3 images-jp.amazon.com 
+
+#小説家になろう
+172.20.58.3 sync.fout.jp
+172.20.58.3 img.i2i.jp 
+172.20.58.3 rt.gsspat.jp
+172.20.58.3 media.gssp.asia
+172.20.58.3 aladdin.genieesspv.jp
+172.20.58.3 cstatic.weborama.fr
+172.20.58.3 ah.yimg.jp
+172.20.58.3 ds.serving-sys.com
+
+172.20.58.3 vsc.send.microad.jp
+172.20.58.3 adf.send.microad.jp
+172.20.58.3 img.ads.mreco0.jp 
+
+#小説家になろう
+172.20.58.3 static.sk.shinobi.jp
+172.20.58.3 sync.shinobi.jp 
+172.20.58.3 v2st.shinobi.jp
+
+172.20.58.3 rubese.net 
+ 
+172.20.58.3 pranking3.ziyu.net
+172.20.58.3 pranking5.ziyu.net
+172.20.58.3 pranking6.ziyu.net
+172.20.58.3 pranking11.ziyu.net
+172.20.58.3 www258.ziyu.net
+172.20.58.3 www252.ziyu.net
+172.20.58.3 www269.ziyu.net
+172.20.58.3 www299.ziyu.net
+
+172.20.58.3 aimg.fc2.com 
+
+
+172.20.58.3 adpriv.nikkei.com
+
+#Google Ads
+172.20.58.3 pagead-googlehosted.l.google.com 
+172.20.58.3 ssl-google-analytics.l.google.com 
+172.20.58.3 ssl.google-analytics.com 
+172.20.58.3 pagead46.l.doubleclick.net
+172.20.58.3 googleads.g.doubleclick.net
+172.20.58.3 www-google-analytics.l.google.com
+172.20.58.3 www.google-analytics.com
+172.20.58.3 s0.2mdn.net
+172.20.58.3 www.googletagservices.com
+172.20.58.3 googleads.g.doubleclick.net
+
+
+#Microsoft Advertisement
+172.20.58.3 mobileads.msn.com 
+172.20.58.3 rad.msn.com 
+172.20.58.3 mobileads.msn.com.nsatc.net 
+172.20.58.3 h2.msn.com
+
+
+
+#Sen Manga
+172.20.58.3 gsspcln.jp
+172.20.58.3 d.href.asia
+172.20.58.3 textad.net
+172.20.58.3 cc2.i2i.jp
+172.20.58.3 ad.kau.li
+172.20.58.3 js.gsspcln.jp
+172.20.58.3 az.trackword.net
+172.20.58.3 cdn.adnxs.com
+172.20.58.3 id.adnxs.com
+172.20.58.3 contentclick.akamaized.net
+172.20.58.3 api.contentclick.co.uk
+172.20.58.3 cdn.epommarket.com
+172.20.58.3 epmads.com
+172.20.58.3 tracking.ctoption.com
+
+
+
+#Tune In Ad
+127.0.0.1 msnbot-64-4-54-220.search.msn.com  #Block by IP Only
+
+#Variety Video & MioMio
+	127.0.0.1       sillrochester.com
+	127.0.0.1       awelessawelesscedar.com
+	127.0.0.1       ampugi334f.com
+	127.0.0.1       video-adblock.com
+	127.0.0.1       s.viimaster.com
+	127.0.0.1       r.suptraf.com
+	127.0.0.1       welcome.unibet.co.uk
+	127.0.0.1       c.adsco.re
+	127.0.0.1       mikvahpizz.website
+	127.0.0.1       cdn.etorostatic.com
+	127.0.0.1       mummiesother.life
+	127.0.0.1       ak.hetahien.com
+	127.0.0.1       ansatedpoller.uno
+	127.0.0.1       unkinpigsty.com
+	127.0.0.1       tealsgenevan.com
+
+
+
+#ESET
+91.228.167.137 avcloud.e5.sk
+91.228.167.103 dnsj.e5.sk
+
+
+#VRChat Amplitude
+	127.0.0.1       amplitude.com
+	127.0.0.1       api.amplitude.com
+	127.0.0.1       api2.amplitude.com
+	127.0.0.1       cdn.amplitude.com
+	127.0.0.1       api.lab.amplitude.com
+	127.0.0.1       api3.amplitude.com
+	127.0.0.1       api.eu.amplitude.com
+
+#Unity
+	127.0.0.1       api.uca.cloud.unity3d.com
+	127.0.0.1       config.uca.cloud.unity3d.com
+	127.0.0.1       cdp.cloud.unity3d.com
+	127.0.0.1       data-optout-service.uca.cloud.unity3d.com
+	127.0.0.1       perf-events.cloud.unity3d.com
+	127.0.0.1       public.cloud.unity3d.com
+	127.0.0.1       ecommerce.iap.unity3d.com
+	127.0.0.1       remote-config-proxy-prd.uca.cloud.unity3d.com
+	127.0.0.1       thind-gke-euw.prd.data.corp.unity3d.com
+	127.0.0.1       thind-gke-usc.prd.data.corp.unity3d.com
+	127.0.0.1       thind-gke-ape.prd.data.corp.unity3d.com
+	127.0.0.1       stats.unity3d.com
+
+#DBD
+	127.0.0.1       gamelogs.live.bhvrdbd.com
+	127.0.0.1       rtm.live.dbd.bhvronline.com
+
+#Genshin Impact
+	127.0.0.1       log-upload-os.mihoyo.com
+
+#Redshell 
+	127.0.0.1       api.gameanalytics.com
+	127.0.0.1       in.treasuredata.com
+	127.0.0.1       api.redshell.io
+	127.0.0.1       rubick.gameanalytics.com
+
+#Just Cause
+	127.0.0.1       nelo2-col.nhncorp.jp
+
+#GoG Galaxy
+	127.0.0.1       galaxy-client-reports.gog.com
+	127.0.0.1       insights-collector.gog.com
+	127.0.0.1       gwent-bi-collector.gog.com
+
+
+#Steam
+	127.0.0.1       crash.steampowered.com
+
+#Solarwinds
+	127.0.0.1       logs-01.loggly.com
+
+#Vermintide
+	127.0.0.1       5fs-crashify.s3-accelerate.amazonaws.com
+
+#China Analytics
+	127.0.0.1       crashlogs.woniu.com
+	127.0.0.1       crashlytics.com
+	127.0.0.1       down.anticheatexpert.com
+	127.0.0.1       log-upload-os.hoyoverse.com
+	127.0.0.1       webstatic.hoyoverse.com
+	127.0.0.1       minor-api-os.hoyoverse.com
+	127.0.0.1       abtest-api-data-sg.hoyoverse.com
+	127.0.0.1       sg-public-data-api.hoyoverse.com
+
+#Microsoft
+	127.0.0.1       vortex.data.microsoft.com
+	127.0.0.1       v10.events.data.microsoft.com
+	127.0.0.1       settings-win.data.microsoft.com
+	127.0.0.1       v10.vortex-win.data.microsoft.com
+	127.0.0.1       v20.events.data.microsoft.com
+	127.0.0.1       watson.telemetry.microsoft.com
+	127.0.0.1       watson.events.data.microsoft.com
+	127.0.0.1       web.vortex.data.microsoft.com
+	127.0.0.1       mobile.events.data.microsoft.com
+	127.0.0.1       cortana.ai
+	127.0.0.1       api.cortana.ai
+
+#Labymod 
+	127.0.0.1       issue.labymod.net
+
+#Rec Room
+	127.0.0.1       gamelogs.rec.net
+	127.0.0.1       datacollection.rec.net
+	127.0.0.1       bugreporting.rec.net
+	127.0.0.1       commerce.rec.net
+	127.0.0.1       notify.bugsnag.com
+
+#Facebook
+	127.0.0.1       oculuscdn.com
+	127.0.0.1       fbcdn.com
+	127.0.0.1       fbsbx.com
+	127.0.0.1       facebook-hardware.com
+
+#Xbox
+	127.0.0.1       cdn.optimizely.com
+	127.0.0.1       analytics.xboxlive.com
+	127.0.0.1       cdf-anon.xboxlive.com
+	127.0.0.1       settings-ssl.xboxlive.com
+
+
+#Epic Games
+	127.0.0.1       et.epicgames.com
+	127.0.0.1       et2.epicgames.com
+	127.0.0.1       udn.epicgames.com
+	127.0.0.1       etsource.epicgames.com
+	127.0.0.1       metrics.ol.epicgames.com
+	127.0.0.1       datarouter.ol.epicgames.com
